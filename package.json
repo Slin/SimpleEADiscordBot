@@ -1,0 +1,11 @@
+{
+  "name": "message-mover-bot",
+  "version": "1.0.0",
+  "description": "Discord bot to move messages from one channel to another, by reposting and deleting them.",
+  "main": "main.js",
+  "author": "Nils Daumann",
+  "dependencies": {
+    "discord.js": "latest",
+    "winston": "^2.4.1"
+  }
+}
